@@ -1,16 +1,35 @@
-## Hi there 👋
+✨  Hi there✨ 
 
-<!--
-**testkanta/testkanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🐼 
+สวัสดีค่ะ! ฉันชื่อ **โอ๋** 🎉  
+ฉันมีประสบการณ์ด้านการสื่อสารและการเข้าใจผู้คนจากการทำงานเป็น Sales มากกว่า **11 ปี** ✨  
 
-Here are some ideas to get you started:
+ก่อนที่จะมาสนใจด้านเทคโนโลยี ฉันได้พัฒนาทักษะในการติดต่อประสานงานและสร้างความสัมพันธ์กับลูกค้า ซึ่งเป็นพื้นฐานที่ดีสำหรับการปรับตัวเข้าสู่สายงานใหม่ในด้านเทคโนโลยี  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ตอนนี้ฉันกำลังมองหาโอกาสใหม่ๆ เพื่อเรียนรู้และพัฒนาทักษะในสายงานเทคโนโลยี  
+หากคุณมีคำแนะนำหรือโอกาสที่น่าสนใจ โปรดแนะนำฉันด้วยนะคะ 🙏  
+
+---
+
+### 🌱  What I’m Currently Learning  
+- การเขียนโปรแกรม (เช่น Java, JavaScript,Php)  
+- การพัฒนาเว็บไซต์  
+- การใช้ Git และ GitHub เพื่อจัดการโค้ด  
+
+---
+
+### 💬 Skills & Strengths  
+- **การสื่อสารที่ยอดเยี่ยม**: เข้าใจความต้องการของลูกค้าและทีม  
+- **การแก้ปัญหา**: คิดวิเคราะห์และหาวิธีที่เหมาะสมที่สุด  
+- **การเรียนรู้รวดเร็ว**: พร้อมรับมือกับสิ่งใหม่ๆ  
+
+---
+
+### 🤝 Let’s Connect  
+- 📫 **อีเมล**: ooh.kancha@gmail.com
+- 💼 **LinkedIn**: www.linkedin.com/in/khanoon-infinity-82495328b
+- 🌐 **Portfolio**: https://portfolio-i-amoh.web.app
+
+---
+
+⚡ **Fun Fact**: ฉันชอบเรียนรู้เรื่องใหม่ๆ และไม่เคยหยุดพัฒนาตัวเอง!
