@@ -1,4 +1,4 @@
-![Header Image](https://cdn.pixabay.com/photo/2016/10/02/19/51/chip-1710300_1280.png)
+![Header Image]<img src="https://cdn.pixabay.com/photo/2016/10/02/19/51/chip-1710300_1280.png" alt="Header Image" width="400"/>
 
 
 ✨  Hi there✨ 
